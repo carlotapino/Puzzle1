@@ -1,4 +1,4 @@
-require 'ruby-nf'
+require 'ruby-nfc'
 class Rfid
 
 	@@readers = NFC::Reader.all
